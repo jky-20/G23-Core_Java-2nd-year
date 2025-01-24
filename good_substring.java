@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class good_substring {
     static boolean goodSubstring(String str, int si, int ei){
         while (si <= ei) {
-            if(str.charAt(si) != 'a' || str.charAt(si) != 'e' || str.charAt(si) != 'i' 
-                || str.charAt(si) != 'o' || str.charAt(si) != 'u'){
+            if(str.charAt(si)!='a' && str.charAt(si)!='e' && str.charAt(si)!='i'
+                && str.charAt(si)!='o' && str.charAt(si)!='u'){
                     return false;
             }
             si++;
