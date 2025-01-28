@@ -1,5 +1,5 @@
 package Jan_27_OOPS;
 
-public class classes {
+public class example_class {
     
 }

@@ -5,7 +5,7 @@ class car{
     String color;
     int speed;
 
-    car(){      // default consrtuctor
+    car(){      // user made default consrtuctor
         brand = "";
         color = "";
         speed = 0;
