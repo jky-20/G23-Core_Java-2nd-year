@@ -1,4 +1,4 @@
-package Lec_7_Dec_12_loops;
+package Lec_07_Dec_12_loops;
 import java.util.Scanner;
 public class diamond {
     public static void main(String[] args) {

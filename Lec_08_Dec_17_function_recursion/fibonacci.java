@@ -1,4 +1,4 @@
-package Lec_8_Dec_17_function_recursion;
+package Lec_08_Dec_17_function_recursion;
 import java.util.Scanner;
 
 public class fibonacci {

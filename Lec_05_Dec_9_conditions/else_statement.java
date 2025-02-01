@@ -1,4 +1,4 @@
-package Lec_5_Dec_9_conditions;
+package Lec_05_Dec_9_conditions;
 public class else_statement {
     public static void main(String[] args) {
         int a = 10;

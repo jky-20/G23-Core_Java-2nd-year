@@ -1,4 +1,4 @@
-package Lec_9_Dec_19_array;
+package Lec_09_Dec_19_array;
 import java.util.Scanner;
 
 public class array {
